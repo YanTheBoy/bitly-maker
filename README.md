@@ -10,5 +10,5 @@ $ pip install -r requirements.txt
 $ python3 click-counter.py https://vk.com/
   bit.ly/apex8h
 ```
-#Project Goals
+# Project Goals
 The code is written for educational purposes on online-course for web-developers [DEVMAN.org](https://devman.org)
